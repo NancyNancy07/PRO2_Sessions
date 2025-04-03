@@ -4,7 +4,7 @@ public class CounterStart
 {
   public static void main(String[] args)
   {
-    Counter counter = new Counter();
+    Counter1 counter = new Counter1();
 
     CounterIncrementer counterIncrementer = new CounterIncrementer(counter, 200000);
     CounterIncrementer counterIncrementer2 = new CounterIncrementer(counter, 200000);

@@ -3,9 +3,10 @@ package via.pro2.counter;
 public class CounterIncrementer implements Runnable
 {
   private int updates;
-  private Counter counter;
 
-  public CounterIncrementer(Counter counter, int updates)
+  private Counter1 counter;
+
+  public CounterIncrementer(Counter1 counter, int updates)
   {
     this.updates = updates;
     this.counter = counter;
@@ -15,7 +16,7 @@ public class CounterIncrementer implements Runnable
   {
     for (int i = 0; i < updates; i++)
     {
-        counter.increment();
+      counter.increment();
     }
     System.out.println(
         Thread.currentThread().getName() + ": " + counter.getValue());

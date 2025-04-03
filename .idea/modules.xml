@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Auction/Auction.iml" filepath="$PROJECT_DIR$/Auction/Auction.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO2_Sessions.iml" filepath="$PROJECT_DIR$/PRO2_Sessions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Session1_Exercise1/Session1_Exercise1.iml" filepath="$PROJECT_DIR$/Session1_Exercise1/Session1_Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session12_Sockets/Session12_Sockets.iml" filepath="$PROJECT_DIR$/Session12_Sockets/Session12_Sockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session13_Sockets_with_Objects/Session13_Sockets_with_Objects.iml" filepath="$PROJECT_DIR$/Session13_Sockets_with_Objects/Session13_Sockets_with_Objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session1_Threads/Session1_Threads.iml" filepath="$PROJECT_DIR$/Session1_Threads/Session1_Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session2_Exercise2/Session2_Exercise2.iml" filepath="$PROJECT_DIR$/Session2_Exercise2/Session2_Exercise2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session2_Synchronization/Session2_Synchronization.iml" filepath="$PROJECT_DIR$/Session2_Synchronization/Session2_Synchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session3_Observer_Design_Patterns/Session3_Observer_Design_Patterns.iml" filepath="$PROJECT_DIR$/Session3_Observer_Design_Patterns/Session3_Observer_Design_Patterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Session5_MVVM/Session5_MVVM.iml" filepath="$PROJECT_DIR$/Session5_MVVM/Session5_MVVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session5_MVVM1/Session5_MVVM1.iml" filepath="$PROJECT_DIR$/Session5_MVVM1/Session5_MVVM1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTest/UnitTest.iml" filepath="$PROJECT_DIR$/UnitTest/UnitTest.iml" />
     </modules>
   </component>
 </project>
